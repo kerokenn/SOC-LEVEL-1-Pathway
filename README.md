@@ -97,7 +97,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 🔍 Key Concepts to Learn
 
-* Learn more about SOC alerts and build a systematic approach to efficiently triaging them.
+* Learned more about SOC alerts and build a systematic approach to efficiently triaging them. From investigating the ticket, to assigning its severity then closing the ticket after giving a verdict based on research on the details presented in the scenario.
 * SOC structure (Tier 1, Tier 2, Tier 3)
 * Daily duties of SOC analysts
 * Alert triage workflow
@@ -105,7 +105,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Severity levels & classification
 * Communication & escalation procedures
 
-### 🛠️ Tools Expected to Use
+### 🛠️ Tools Used
 
 * Ticketing systems (generic examples)
 * Basic SIEM dashboards
@@ -113,7 +113,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 🧪 Labs
 
-* Simulated alert triage
+* Simulated alert triage through the TryHackMe SIEM Simulator
 * Event classification challenges
 
 ### 📝 Notes / Reflections
