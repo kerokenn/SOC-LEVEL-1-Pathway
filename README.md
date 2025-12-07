@@ -98,6 +98,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ### 🔍 Key Concepts to Learn
 
 * Learned more about SOC alerts and build a systematic approach to efficiently triaging them. From investigating the ticket, to assigning its severity then closing the ticket after giving a verdict based on research on the details presented in the scenario.
+* Objectively made my alert reporting better with the use of 5WS(When, Who, What, When, Why). Had a good practical SOC Simulator Lab wherein I did the escalation process thoroughly from closing tickets to escalating some of them to tier 2 SOC. With this I learned Alert reporting, Escalation, and Communication.
 * SOC structure (Tier 1, Tier 2, Tier 3)
 * Daily duties of SOC analysts
 * Alert triage workflow
@@ -114,6 +115,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ### 🧪 Labs
 
 * Simulated alert triage through the TryHackMe SIEM Simulator
+* Made Alert reporting(5Ws), Escalated alerts to L2, all through a SIEM Simulator
 * Event classification challenges
 
 ### 📝 Notes / Reflections
