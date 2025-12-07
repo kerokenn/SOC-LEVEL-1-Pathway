@@ -35,8 +35,8 @@ The purpose of this README is to show progression from **zero experience** to be
 
 | Module                          | Status         |
 | ------------------------------- | -------------- |
-| Blue Team Introduction          | 🟡 In Progress |
-| SOC Team Internals              | 🔴 Not Started |
+| Blue Team Introduction          | 🟢 Completed   |
+| SOC Team Internals              | 🟡 In Progress |
 | Core SOC Solutions              | 🔴 Not Started |
 | Cyber Defence Frameworks        | 🔴 Not Started |
 | Phishing Analysis               | 🔴 Not Started |
@@ -63,7 +63,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 1️⃣ Blue Team Introduction
 
-**Status:** 🟡 In progress
+**Status:** 🟢 Completed
 
 ### 🔍 Key Concepts
 
@@ -72,30 +72,32 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Types of cyber attacks & prevention strategies
 * Importance of SOC (Security Operations Center)
 * Overview of monitoring, detection, and response
+* Discussed Threat actors and Threat Vectors
 
 ### 🛠️ Tools used
 
 * TryHackMe learning environment
-* Simple log viewers
 
 ### 🧪 Labs & Practical Activities
 
 * Practical phishing examples and how to detect them and identify
-* Identifying attack types
+* Practical implementation of what policies to use to mitigate attacks
+* Finding solutions to attacks based on situational scenarios by defining the problem and what is the correct course of action
 * Simple defensive tasks
 
 ### 📝 Notes / Reflections
 
-*To be filled in once completed.*
+* Just a quick introduction on SOC and begginer labs that have labs of situational scenarios and how to solve them, practical phishing, policies, solutions.
 
 ---
 
 ## 2️⃣ SOC Team Internals
 
-**Status:** *Not Started*
+**Status:** 🟡 In Progress
 
 ### 🔍 Key Concepts to Learn
 
+* Learn more about SOC alerts and build a systematic approach to efficiently triaging them.
 * SOC structure (Tier 1, Tier 2, Tier 3)
 * Daily duties of SOC analysts
 * Alert triage workflow
