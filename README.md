@@ -36,8 +36,8 @@ The purpose of this README is to show progression from **zero experience** to be
 | Module                          | Status         |
 | ------------------------------- | -------------- |
 | Blue Team Introduction          | 🟢 Completed   |
-| SOC Team Internals              | 🟡 In Progress |
-| Core SOC Solutions              | 🔴 Not Started |
+| SOC Team Internals              | 🟢 Completed   |
+| Core SOC Solutions              | 🟡 In Progress |
 | Cyber Defence Frameworks        | 🔴 Not Started |
 | Phishing Analysis               | 🔴 Not Started |
 | Network Traffic Analysis        | 🔴 Not Started |
@@ -93,7 +93,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 2️⃣ SOC Team Internals
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed
 
 ### 🔍 Key Concepts
 
@@ -101,34 +101,35 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Objectively made my alert reporting better with the use of 5WS(Who, What, When, Where, Why). Had a good practical SOC Simulator Lab wherein I did the escalation process thoroughly from closing tickets to escalating some of them to tier 2 SOC. With this I learned Alert reporting, Escalation, and Communication. 
 * Tackled workbooks and its importance to L1 SOC Analysts, through the help of the diagrams it was easily understable and it goes to show how efficiently a team works with a workbook in place. Also tackled network diagrams as this helps in the investigation of alerts. And finally assets and Identities, the list of all records partaining to either assets or identities(This records are of Role, Name, Access, etc..)
 * Learned about the SOC Core Metrics (Alert Count, False Positive Rate, Alert Escalation Rate, Threat Detection Rate).
-* SOC structure (Tier 1, Tier 2, Tier 3)
-* Daily duties of SOC analysts
+* Studied how SLA works and parts of it like MMTD, MTTA, MTTR. These metrics are really important for the SLA.
 * Alert triage workflow
-* Incident lifecycle
 * Severity levels & classification
 * Communication & escalation procedures
 
 ### 🛠️ Tools Used
 
-* Ticketing systems (generic examples)
-* Basic SIEM dashboards
-* Log analysis tools
+* Ticketing systems (From TryHackMe)
+* Basic SIEM dashboards (SPLUNK)
 
 ### 🧪 Labs
 
 * Simulated alert triage through the TryHackMe SIEM Simulator
 * Made Alert reporting(5Ws), Escalated alerts to L2, all through a SIEM Simulator
 * Workbook practice(what steps to do in an investigation but will vary depending on the company)
+* Simulated a SOC Managers POV on reports regarding SOC performance identifying the problems, looking at the things to improve, and act upon these information to improve the SOC team.
+* Phishing Simulation using TryHackMe SOC Simulator, in this lab we I used SPLUNK as my SIEM as it was begginer friendly. I achieved a 100% TPR(True Positive Rate)
+* <img width="1216" height="849" alt="image" src="https://github.com/user-attachments/assets/b2316051-dd4a-4fba-a7a5-a373b9e3caed" />
+
 
 ### 📝 Notes / Reflections
 
-*To be filled in once completed.*
+*Had a chance to work in a Simulated SOC Invironment, from learing triaging to closing alerts and then had a practical scenario to top it all of. The last lab was legit great for experience and exposure.
 
 ---
 
 ## 3️⃣ Core SOC Solutions
 
-**Status:** *Not Started*
+**Status:** 🟡 In Progress
 
 ### 🔍 Key Concepts to Learn
 
