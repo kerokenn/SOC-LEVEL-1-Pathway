@@ -101,7 +101,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Objectively made my alert reporting better with the use of 5WS(Who, What, When, Where, Why). Had a good practical SOC Simulator Lab wherein I did the escalation process thoroughly from closing tickets to escalating some of them to tier 2 SOC. With this I learned Alert reporting, Escalation, and Communication. 
 * Tackled workbooks and its importance to L1 SOC Analysts, through the help of the diagrams it was easily understable and it goes to show how efficiently a team works with a workbook in place. Also tackled network diagrams as this helps in the investigation of alerts. And finally assets and Identities, the list of all records partaining to either assets or identities(This records are of Role, Name, Access, etc..)
 * Learned about the SOC Core Metrics (Alert Count, False Positive Rate, Alert Escalation Rate, Threat Detection Rate).
-* Studied how SLA works and parts of it like MMTD, MTTA, MTTR. These metrics are really important for the SLA.
+* Studied how SLA works and parts of it like MTTD, MTTA, MTTR. These metrics are really important for the SLA.
 * Alert triage workflow
 * Severity levels & classification
 * Communication & escalation procedures
