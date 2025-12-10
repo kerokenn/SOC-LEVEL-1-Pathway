@@ -131,7 +131,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 **Status:** 🟡 In Progress
 
-### 🔍 Key Concepts to Learn
+### 🔍 Key Concepts
 
 * **EDR** (Endpoint Detection and Response)
 * Learned the main features of EDR which are Visibility, Detection, and Response. Throughtout this walktthrough each of these features are discussed extensively, Visibility feature lets the SOC Analyst have a detailed data overrview on the endpoint which includes process modifications, registry modifications, file and folder modifications, user actions, etc. aside from this there's also the process tree feature to make it easier to see process in which an action went through. The Detection feature clearly provides analyst with a severity score, host name, file name, etc... which are good information for threat hunting and solving cases, most importantly this feature includes Signature-based and Behaviour-based detection which makes EDR more potent as a solution. The response feature greatly indicates the ability to take action immedietly against detected threats, empowers analysts to take action.
@@ -141,16 +141,17 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
-### 🛠️ Tools Expected to Use
+### 🛠️ Tools Used
 
 * Elastic SIEM
+* Tryhackme EDR Dashboard
 * Wazuh (possible)
 * CrowdStrike / Windows Defender examples
 * Splunk (conceptual exercises)
 
 ### 🧪 Labs
 
-* Basic SIEM queries
+* Investigating alerts on EDR(Practical EDR Dashboard from tryhackme)
 * Exploring EDR alerts
 * Understanding automated responses
 
