@@ -136,6 +136,8 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * **EDR** (Endpoint Detection and Response)
 * Learned the main features of EDR which are Visibility, Detection, and Response. Throughtout this walktthrough each of these features are discussed extensively, Visibility feature lets the SOC Analyst have a detailed data overrview on the endpoint which includes process modifications, registry modifications, file and folder modifications, user actions, etc. aside from this there's also the process tree feature to make it easier to see process in which an action went through. The Detection feature clearly provides analyst with a severity score, host name, file name, etc... which are good information for threat hunting and solving cases, most importantly this feature includes Signature-based and Behaviour-based detection which makes EDR more potent as a solution. The response feature greatly indicates the ability to take action immedietly against detected threats, empowers analysts to take action.
 * Tackled the types of telemetry and this information is the reason how an EDR asses a certain activity in an endpoint.
+* Learnt the detection techniques that the EDR uses(Behavioural, Anomoly, IoC matching, Machine Learning, MITRE ATT&CK Mapping)
+* After learning about detection this walkthrough proceeds in discussing response techniques and this included Isolate Host, Quarantine, Terminate process, Remote Access, and Artefacts Collection. All these techniques makes the EDR whole, a further than that techniques may differ per organization and technology advances.
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
