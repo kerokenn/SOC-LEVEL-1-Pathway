@@ -138,6 +138,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Tackled the types of telemetry and this information is the reason how an EDR asses a certain activity in an endpoint.
 * Learnt the detection techniques that the EDR uses(Behavioural, Anomoly, IoC matching, Machine Learning, MITRE ATT&CK Mapping)
 * After learning about detection this walkthrough proceeds in discussing response techniques and this included Isolate Host, Quarantine, Terminate process, Remote Access, and Artefacts Collection. All these techniques makes the EDR whole, a further than that techniques may differ per organization and technology advances.
+* Understood how the SIEM works, from Centralization of logs to Normalizing logs and then the Correlation of logs this process is what makes SEIM a really good tool for SOC Analysts. 
 * Differenciated Host-centric vs. Netwrok centric logs, how these logs are then analyzed by L1,L2,L3 analysts from a SIEM.
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
