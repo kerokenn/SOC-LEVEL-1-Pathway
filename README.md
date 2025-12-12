@@ -140,6 +140,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * After learning about detection this walkthrough proceeds in discussing response techniques and this included Isolate Host, Quarantine, Terminate process, Remote Access, and Artefacts Collection. All these techniques makes the EDR whole, a further than that techniques may differ per organization and technology advances.
 * Understood how the SIEM works, from Centralization of logs to Normalizing logs and then the Correlation of logs this process is what makes SEIM a really good tool for SOC Analysts. 
 * Differenciated Host-centric vs. Netwrok centric logs, how these logs are then analyzed by L1,L2,L3 analysts from a SIEM.
+* Talked about log sources and ingestion, how and where the logs are ingested from endpoints to a SIEM solution. In this case the example shows Splunk as the SIEM for the manual upload of logs 
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
