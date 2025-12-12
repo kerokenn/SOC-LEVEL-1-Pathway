@@ -142,6 +142,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Differenciated Host-centric vs. Netwrok centric logs, how these logs are then analyzed by L1,L2,L3 analysts from a SIEM.
 * Talked about log sources and ingestion, how and where the logs are ingested from endpoints to a SIEM solution. In this case the example shows Splunk as the SIEM for the manual upload of logs
 * Studied how detection logs are created through rules, then a practical Lab featuring a SIEM from THM to have handson experience on Alerts.
+* Practical overview of Splunk, its features, components and how it works.
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
