@@ -143,6 +143,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Talked about log sources and ingestion, how and where the logs are ingested from endpoints to a SIEM solution. In this case the example shows Splunk as the SIEM for the manual upload of logs
 * Studied how detection logs are created through rules, then a practical Lab featuring a SIEM from THM to have handson experience on Alerts.
 * Practical overview of Splunk, its features, components and how it works.
+* Learned how to manually upload logs to Splunk and did a Lab in Splunk investigating VPN_Logs
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
@@ -160,6 +161,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Exploring EDR alerts
 * Understanding automated responses
 * SIEM Simulation
+* Splunk practical manual log upload and VPN_Logs investigation
 
 ### 📝 Notes / Reflections
 
