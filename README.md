@@ -144,6 +144,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Studied how detection logs are created through rules, then a practical Lab featuring a SIEM from THM to have handson experience on Alerts.
 * Practical overview of Splunk, its features, components and how it works.
 * Learned how to manually upload logs to Splunk and did a Lab in Splunk investigating VPN_Logs
+* The ELK Stack, how SOC Analysts use this and what are the components of it. Elastic search, Logstash, Kibana, Beats.  
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 
