@@ -147,6 +147,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * The ELK Stack, how SOC Analysts use this and what are the components of it. Elastic search, Logstash, Kibana, Beats.  
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
+* Studied about the elements of the discover tab in the Kibana front-end interface.
 
 ### 🛠️ Tools Used
 
