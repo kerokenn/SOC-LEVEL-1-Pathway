@@ -148,6 +148,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 * Studied about the elements of the discover tab in the Kibana front-end interface.
+* Had practical experience with ELK's Discover tab, read through logs and investigated.
 
 ### 🛠️ Tools Used
 
@@ -164,6 +165,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Understanding automated responses
 * SIEM Simulation
 * Splunk practical manual log upload and VPN_Logs investigation
+* ELK's Discovery tab practical investigation
 
 ### 📝 Notes / Reflections
 
