@@ -149,6 +149,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * How these systems work together in a SOC environment
 * Studied about the elements of the discover tab in the Kibana front-end interface.
 * Had practical experience with ELK's Discover tab, read through logs and investigated, learned KQL (Kibana query language) with examples and uses of it in the lab.
+* Made visualizations and then created dashboards out of it.
 
 ### 🛠️ Tools Used
 
