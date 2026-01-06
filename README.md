@@ -148,7 +148,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * **SOAR** (Security Orchestration Automation and Response)
 * How these systems work together in a SOC environment
 * Studied about the elements of the discover tab in the Kibana front-end interface.
-* Had practical experience with ELK's Discover tab, read through logs and investigated.
+* Had practical experience with ELK's Discover tab, read through logs and investigated, learned KQL (Kibana query language) with examples and uses of it in the lab.
 
 ### 🛠️ Tools Used
 
