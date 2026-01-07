@@ -164,7 +164,8 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 
 ---
-* Detection Engineering Methodologies
+* Detection Engineering Methodologies, learnt about Detection Gap Analysis with reactive and proactive threat modeling and how they differ from each other.
+* Understood the importance of baseline creation, the two categories which are high-level and technical.
 ### 🛠️ Tools Used
 
 * Elastic SIEM
