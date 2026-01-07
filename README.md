@@ -150,7 +150,21 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Studied about the elements of the discover tab in the Kibana front-end interface.
 * Had practical experience with ELK's Discover tab, read through logs and investigated, learned KQL (Kibana query language) with examples and uses of it in the lab.
 * Made visualizations and then created dashboards out of it.
+* As a prerequisite to SOAR, Detection engineering is a vital part to it, here we look at Detection types and there differeneces
+---
+* Detection Types in Detection Engineering
 
+| Types                          | Definition         |
+| ------------------------------- | -------------- |
+| Configuration Detection          | Uses current knowledge of known environment and infrastructure to identify misalignment   |
+| Modelling             | By defining baseline operations and activities then records deviations that occur (Malicious activity can be detected through deviation of normal activity)   |
+| Indicator Detection             | Uses IOCs to craft detection based on the adversary rate of change |
+| Threat Behaviour Detection        | This detection type looks for attackers TTPs to attack, this makes this type of detection more scalable beyong indicators |
+| Detection as Code               | Structured approach in writing detections, this paired with software engineering best practice principle |
+
+
+---
+* Detection Engineering Methodologies
 ### 🛠️ Tools Used
 
 * Elastic SIEM
