@@ -192,11 +192,11 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 4️⃣ Cyber Defence Frameworks
 
-**Status:** *Not Started*
+**Status:** 🟡 In Progress
 
-### 🔍 Key Concepts to Learn
+### 🔍 Key Concepts
 
-* MITRE ATT&CK
+* Learned about the Pyramid of Pain and how it affects attackers, gives insight on each section of the pyramid from Hashes to TTPs and has a practical lab on it aswell.
 * Cyber Kill Chain
 * Pyramid of Pain
 * Defense-in-depth strategies
@@ -210,7 +210,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 🧪 Labs
 
-* Mapping alerts to MITRE techniques
+* Pyramid of pain practical lab
 * Understanding adversary behavior
 
 ### 📝 Notes / Reflections
