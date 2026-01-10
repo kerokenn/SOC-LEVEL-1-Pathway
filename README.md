@@ -186,7 +186,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 📝 Notes / Reflections
 
-*To be filled in once completed.*
+*This section of the SOC L1 gives a thorough walkthourgh on SOC operations and what to expect aswell as the tools commonly used in SOC especailly for L1 Analysts. This information is valuable foundational knowledge for those wanting to experience practical SOC Labs as there are Simulators within this walkthrough.
 
 ---
 
