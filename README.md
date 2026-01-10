@@ -37,8 +37,8 @@ The purpose of this README is to show progression from **zero experience** to be
 | ------------------------------- | -------------- |
 | Blue Team Introduction          | 🟢 Completed   |
 | SOC Team Internals              | 🟢 Completed   |
-| Core SOC Solutions              | 🟡 In Progress |
-| Cyber Defence Frameworks        | 🔴 Not Started |
+| Core SOC Solutions              | 🟢 Completed   |
+| Cyber Defence Frameworks        | 🟡 In Progress |
 | Phishing Analysis               | 🔴 Not Started |
 | Network Traffic Analysis        | 🔴 Not Started |
 | Network Security Monitoring     | 🔴 Not Started |
