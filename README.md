@@ -129,7 +129,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 3️⃣ Core SOC Solutions
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed
 
 ### 🔍 Key Concepts
 
@@ -166,6 +166,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ---
 * Detection Engineering Methodologies, learnt about Detection Gap Analysis with reactive and proactive threat modeling and how they differ from each other.
 * Understood the importance of baseline creation, the two categories which are high-level and technical.
+* Learned about the imporatance of SOAR, how its automation greatly helps SOC teams especially in alert fatigue and overall automation of workflows and playbook.
 ### 🛠️ Tools Used
 
 * Elastic SIEM
