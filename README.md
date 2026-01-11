@@ -197,7 +197,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ### 🔍 Key Concepts
 
 * Learned about the Pyramid of Pain and how it affects attackers, gives insight on each section of the pyramid from Hashes to TTPs and has a practical lab on it aswell.
-* Cyber Kill Chain
+* Discussed each part of the Cyber kill chain, from its origins and how it is done in a practical sense. Knowing this is beneficial as this would unravel what it is an adversary would do especially in the early stages of the cyber kill chain
 * Pyramid of Pain
 * Defense-in-depth strategies
 * How frameworks help with detection & response
