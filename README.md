@@ -198,7 +198,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 * Learned about the Pyramid of Pain and how it affects attackers, gives insight on each section of the pyramid from Hashes to TTPs and has a practical lab on it aswell.
 * Discussed each part of the Cyber kill chain, from its origins and how it is done in a practical sense. Knowing this is beneficial as this would unravel what it is an adversary would do especially in the early stages of the cyber kill chain
-* Pyramid of Pain
+* Learnt the importance of the UKC (Unified Kill Chain), how learning the 18 steps is beneficial to know the adversaries course of action and how to predict their movement. The UKC is a more recent framework which leads to a more modern way of explaining the procedures that attackers may take in an event of an attack.
 * Defense-in-depth strategies
 * How frameworks help with detection & response
 
