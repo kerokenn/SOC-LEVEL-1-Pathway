@@ -212,8 +212,8 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 🧪 Labs
 
-* Pyramid of pain practical lab
-* Understanding adversary behavior
+* Summit - Pyramid of pain practical lab
+* Eviction - MITRE ATT&CK Navigator
 
 ### 📝 Notes / Reflections
 
