@@ -218,7 +218,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 📝 Notes / Reflections
 
-*To be filled in once completed.*
+*Had a brief introduction into frameworks widely known in cybersecurity for both offensive frameworks and defensive framworks, Leanred alot on MITRE and had practical walkthrough on MITRE ATT&CK Navigator
 
 ---
 
