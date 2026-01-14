@@ -38,8 +38,8 @@ The purpose of this README is to show progression from **zero experience** to be
 | Blue Team Introduction          | 🟢 Completed   |
 | SOC Team Internals              | 🟢 Completed   |
 | Core SOC Solutions              | 🟢 Completed   |
-| Cyber Defence Frameworks        | 🟡 In Progress |
-| Phishing Analysis               | 🔴 Not Started |
+| Cyber Defence Frameworks        | 🟢 Completed |
+| Phishing Analysis               | 🟡 In Progress |
 | Network Traffic Analysis        | 🔴 Not Started |
 | Network Security Monitoring     | 🔴 Not Started |
 | Web Security Monitoring         | 🔴 Not Started |
@@ -192,7 +192,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 4️⃣ Cyber Defence Frameworks
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed
 
 ### 🔍 Key Concepts
 
@@ -201,6 +201,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Learnt the importance of the UKC (Unified Kill Chain), how learning the 18 steps is beneficial to know the adversaries course of action and how to predict their movement. The UKC is a more recent framework which leads to a more modern way of explaining the procedures that attackers may take in an event of an attack.
 * Understood the essence of MITRE ATT&CK framework, in Operation, for Threat Intelligence, also talked about ATT&CK matrix and evolution.
 * A brief discussion on MITRE D3FEND Framework and its tactics. D3FEND (Detection, Denial, and Disruption Framework Empowering Network Defense)
+* A practical scenario in using firewall, DNS Filtering, and making rules with Sigma Rule builder
 * Used the MTRE ATT&CK Navigator in a walkthrough and performed analysis
 * Defense-in-depth strategies
 * How frameworks help with detection & response
@@ -208,6 +209,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ### 🛠️ Tools Expected to Use
 
 * MITRE ATT&CK Navigator
+* Sigma Rule Builder
 
 ### 🧪 Labs
 
@@ -222,7 +224,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 5️⃣ Phishing Analysis
 
-**Status:** *Not Started*
+**Status:** 🟡 In Progress
 
 ### 🔍 Key Concepts to Learn
 
