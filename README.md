@@ -226,9 +226,9 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 **Status:** 🟡 In Progress
 
-### 🔍 Key Concepts to Learn
+### 🔍 Key Concepts
 
-* Types of phishing emails
+* Learnt the fundamentals of phishing analysis, types of phishing and social engineering tactics
 * Analyzing headers
 * Detecting malicious attachments/URLs
 * Social engineering detection
