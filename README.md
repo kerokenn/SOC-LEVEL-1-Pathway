@@ -232,6 +232,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Analyzing headers of emails, verifying if said email is legit.
 * Looked at the different techniques used to trick vicitms, appearing more legitimate through the use of typosquatting and many other ways.
 * Detecting malicious attachments/URLs
+* Differenciated SPF, DKIM, DMARC, S/MIME how these protocols work and what they're differences are.
 * Social engineering detection
 * Identifying indicators of compromise
 
