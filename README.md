@@ -233,6 +233,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Looked at the different techniques used to trick vicitms, appearing more legitimate through the use of typosquatting and many other ways.
 * Detecting malicious attachments/URLs
 * Differenciated SPF, DKIM, DMARC, S/MIME how these protocols work and what they're differences are.
+* Did multiple practical examples and investigations on Phishing, from investigating phishing emails to uncovering hashes and sandboxing results analysis.
 * Social engineering detection
 * Identifying indicators of compromise
 
@@ -246,6 +247,8 @@ Below are all modules in the SOC Level 1 path, each following the format:
 ### 🧪 Labs
 
 * Phishing email dissection
+* The Greenholt Phish
+* Snapped Phishing Line
 * Malicious link investigation
 
 ### 📝 Notes / Reflections
