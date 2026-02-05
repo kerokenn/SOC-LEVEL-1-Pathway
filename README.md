@@ -39,8 +39,8 @@ The purpose of this README is to show progression from **zero experience** to be
 | SOC Team Internals              | 🟢 Completed   |
 | Core SOC Solutions              | 🟢 Completed   |
 | Cyber Defence Frameworks        | 🟢 Completed |
-| Phishing Analysis               | 🟡 In Progress |
-| Network Traffic Analysis        | 🔴 Not Started |
+| Phishing Analysis               | 🟢 Completed |
+| Network Traffic Analysis        | 🟡 In Progress |
 | Network Security Monitoring     | 🔴 Not Started |
 | Web Security Monitoring         | 🔴 Not Started |
 | Windows Security Monitoring     | 🔴 Not Started |
@@ -224,7 +224,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 5️⃣ Phishing Analysis
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed
 
 ### 🔍 Key Concepts
 
@@ -261,7 +261,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ## 6️⃣ Network Traffic Analysis
 
-**Status:** *Not Started*
+**Status:** 🟡 In Progress
 
 ### 🔍 Key Concepts to Learn
 
