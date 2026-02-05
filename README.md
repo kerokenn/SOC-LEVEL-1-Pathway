@@ -234,26 +234,28 @@ Below are all modules in the SOC Level 1 path, each following the format:
 * Detecting malicious attachments/URLs
 * Differenciated SPF, DKIM, DMARC, S/MIME how these protocols work and what they're differences are.
 * Did multiple practical examples and investigations on Phishing, from investigating phishing emails to uncovering hashes and sandboxing results analysis.
-* Social engineering detection
 * Identifying indicators of compromise
+* Finished the phishing unfolding Simulator, analyzed 40 alerts in the Tryhackme SOC Simulator and gained this score below, I need to still work on my false positives though my issue was resolving spam as True Positive that lead me gaining alot of minus points
+* <img width="1205" height="835" alt="image" src="https://github.com/user-attachments/assets/9f646d9f-5281-48bc-94bb-b4a2c8a946cc" />
+
 
 ### 🛠️ Tools Expected to Use
 
 * VirusTotal
 * URLscan.io
-* OTX (Open Threat Exchange)
 * Email header analyzers
+* PhishTool
 
 ### 🧪 Labs
 
 * Phishing email dissection
 * The Greenholt Phish
 * Snapped Phishing Line
-* Malicious link investigation
+* phishing unfolding Simulator - This is an actual simulation of SOC L1 Analysts
 
 ### 📝 Notes / Reflections
 
-*To be filled in once completed.*
+*Need to do more analysis to further deepen my knowledge in analyzing and identifying threats*
 
 ---
 
