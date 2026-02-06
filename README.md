@@ -265,7 +265,7 @@ Below are all modules in the SOC Level 1 path, each following the format:
 
 ### 🔍 Key Concepts to Learn
 
-* Basics of packets, protocols, and network flows
+* Basics of packets, protocols, and network flows - for this I went back to some rooms of tryhackme for a brief review of it. (Pre-Security)
 * Understanding PCAPs
 * Identifying malicious traffic
 * Common attacks (port scans, brute force, MITM)
